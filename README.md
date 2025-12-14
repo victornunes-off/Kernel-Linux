@@ -2,10 +2,10 @@
 
 ## Alunos
 
-Beatriz Reis Dutra \n
-Claudinei Braga de Oliveira
-Douglas Santana Passos
-Marcia Azevedo de Souza
+Beatriz Reis Dutra,
+Claudinei Braga de Oliveira,
+Douglas Santana Passos,
+Marcia Azevedo de Souza,
 Victor Gabriel Nunes de Oliveira
 
 
