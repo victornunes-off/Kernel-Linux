@@ -1,6 +1,7 @@
 # Kernel Linux Personalizado - 6.18.1
 
-## Aluno
+## Alunos
+
 Beatriz Reis Dutra
 Claudinei Braga de Oliveira
 Douglas Santana Passos
