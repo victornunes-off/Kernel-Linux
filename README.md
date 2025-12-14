@@ -2,7 +2,7 @@
 
 ## Alunos
 
-Beatriz Reis Dutra
+Beatriz Reis Dutra \n
 Claudinei Braga de Oliveira
 Douglas Santana Passos
 Marcia Azevedo de Souza
